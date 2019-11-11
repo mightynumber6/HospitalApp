@@ -1,2 +1,2 @@
 # HospitalApp
-Small App for Doctors and Patients designed for CSCI 213
+Don't mind this, trying to figure out how github actually works
